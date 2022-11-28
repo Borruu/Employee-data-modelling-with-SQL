@@ -10,7 +10,10 @@ For this project, you’ll design the tables to hold the data from the CSV files
 That is, you’ll perform data modelling, data engineering, and data analysis, respectively.
 
 The original data files (six csv files) are in the folder titled EmployeeSQL.
+
 The Entity Relationship Diagram is saved as ERD in the Code_Diagrams folder in both PDF and PNG formats.
+
 The SQL file titled tableSchemata_queries_combined (in folder Code_Diagrams) contains all code required to create tables and query data.
 There is also a SQL file called table_schemata to create the tables only, and another SQL file called queries which queries the data, if this format is preferred.
+
 The answers for the data analysis section are saved in the folder titled Output.
